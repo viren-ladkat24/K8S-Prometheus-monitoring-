@@ -22,7 +22,8 @@ This guide covers the steps to:
 
 ![Grafana diagram](<img width="1901" height="892" alt="Screenshot 2026-09-30 174701" src="https://github.com/user-attachments/assets/b08843e6-3110-4787-b195-2f14ca2f707b" />
 .png)
-![Prometheus diagram](prometheus.png)
+![Prometheus diagram](<img width="1906" height="900" alt="Screenshot 2026-09-30 174733" src="https://github.com/user-attachments/assets/93798a4b-16e5-42f6-9bc2-f70df754a3fa" />
+)
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
